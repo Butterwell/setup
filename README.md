@@ -8,8 +8,11 @@ follows:
 cd $HOME
 sudo apt-get install -y git-core
 git clone https://github.com/Butterwell/ubuntu-dev-setup.git
-./setup/setup.sh   
+./ubuntu-setup/setup.sh   
 ```
+
+And to install *everything* for some reasonable value of *everything*:
+./ubuntu-setup/kitchen-sink.sh
 
 See also http://github.com/Butterwell/ubuntu-dotfiles for more details.
 
