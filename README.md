@@ -7,7 +7,7 @@ follows:
 ```sh
 cd $HOME
 sudo apt-get install -y git-core
-git clone https://github.com/Butterwell/ubuntu-dev-setup.git
+git clone https://github.com/Butterwell/ubuntu-setup.git
 ./ubuntu-setup/setup.sh   
 ```
 
